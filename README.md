@@ -25,6 +25,14 @@ Final product should include:
 - [ ] A front end that allows saving/sending the encounter so that it can be reviewed
 - [ ] Ideally, a way to capture all encounters as these interactions may provide useful data for future projects
 
+## To Do
+- [ ] Figure out how to track the number of tokens in a conversation
+- [ ] Limit the conversation to ensure not going over the max tokens and losing the thread as conversation goes on
+
+## Ideas
++ Could we make ChatGPT evaluate the conversation at the end?
++ 
+
 ## Useful Links:
 - https://platform.openai.com/docs/api-reference/introduction
 - https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started
